@@ -1,0 +1,8 @@
+# ConsoleChat by Minenash
+# Version 1.0
+# Variables: $player$, $msg$, $prefix$
+
+chat-format:
+ prefix: '&0[&2Console&0]&r'
+ remove-rank-prefix: true
+ chat-display: '$prefix$<$player$> $msg$'

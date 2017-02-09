@@ -1,0 +1,12 @@
+name: ConsoleChat
+main: com.minenash.console_chat.ConsoleChat
+version: 1.0
+commands:
+   chat:
+      description: Sends msg with Console Prefix.
+      usage: /<command>
+      aliases: [c]
+   setplayer:
+      description: Sets Player to be used with Console Prefix.
+      usage: /<command>
+      aliases: [sp]
